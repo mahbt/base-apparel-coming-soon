@@ -26,14 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop
-  ![Desktop](./screenshots/Screenshot-desktop.png)
-
-- Desktop Active
-  ![Desktop Active](./screenshot/Screenshot-desktop-active.png)
-
--Mobile
-![Mobile](./screenshot/Screenshot-mobile.png)
+![](./screenshot/Screenshot-desktop.png)
 
 ### Links
 
