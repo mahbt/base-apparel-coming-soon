@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Base Apparel Coming Soon](https://github.com/mahbt/base-apparel-coming-soon)
+- Live Site URL: [Base Apparel Coming Soon](https://mahbt.github.io/base-apparel-coming-soon)
 
 ## My process
 
